@@ -1,3 +1,4 @@
+
 # 📊 PhonePe Data Analysis Dashboard (Power BI)
 
 Welcome to the PhonePe Data Analysis Dashboard project! This end-to-end Power BI solution showcases how to analyze transaction data across multiple financial services offered by PhonePe. Whether you're a budding data analyst or a seasoned BI professional, this project is a great way to sharpen your Power BI skills and demonstrate your dashboarding capabilities to recruiters and peers.
@@ -13,7 +14,13 @@ This project walks through the creation of a 5-page interactive Power BI dashboa
 - 🔁 Money Transfers  
 - 📱 Recharge & Bills  
 
-Each service has its own dedicated dashboard page, while the homepage provides a high-level summary of all metrics.
+---
+
+## 📸 Dashboard Preview
+
+![PhonePe Dashboard Screenshot](https://github.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/blob/main/Screenshot%202025-10-14%20214629.png)
+
+This screenshot offers a glimpse of the interactive dashboard layout, highlighting transaction metrics, service breakdowns, and failed payment analysis.
 
 ---
 
@@ -63,19 +70,10 @@ Services covered:
 - PhonePe-themed purple color palette  
 - Custom fonts, shadows, and styled slicers for a polished look  
 
-### 6. 🔗 Page Linking
-- Navigation buttons for seamless movement between dashboard sections  
-
 ---
 
-## 📤 Deployment & Sharing
 
-Once complete, export the dashboard as a Power BI report (.pbix) and share it:
-- On your resume or portfolio  
-- With recruiters or hiring managers  
-- In data communities for feedback  
 
----
 ## 🧠 Skills Demonstrated
 
 - Power BI Dashboard Design  
@@ -92,4 +90,3 @@ By the end of this project, you'll have a fully interactive dashboard that deliv
 
 ---
 
-Let me know if you'd like help writing the README in Telugu or Hindi too—or if you want a matching LinkedIn post to go with it!
