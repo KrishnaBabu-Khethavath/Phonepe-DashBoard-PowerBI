@@ -86,7 +86,7 @@ Services covered:
 
 ## 📌 Conclusion
 
-By the end of this project, you'll have a fully interactive dashboard that delivers actionable insights into PhonePe's transaction ecosystem. It's a perfect showcase of your analytical thinking, BI skills, and storytelling ability.
+This PhonePe End-to-End Data Analysis Project is a fantastic way to gain hands-on experience with Power BI and improve your data analysis skills.
 
 ---
 
