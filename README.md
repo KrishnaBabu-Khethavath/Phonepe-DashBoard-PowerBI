@@ -17,8 +17,12 @@ This project walks through the creation of a 5-page interactive Power BI dashboa
 ---
 
 ## 📸 Dashboard Preview
+[<img src="https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214629.png" width="300"/>](https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214629.png)
+[<img src="https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214557.png" width="300"/>](https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214557.png)
+[<img src="https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214655.png" width="300"/>](https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214655.png)
+[<img src="https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214714.png" width="300"/>](https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214714.png)
+[<img src="https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214735.png" width="300"/>](https://raw.githubusercontent.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/main/Screenshot%202025-10-14%20214735.png)
 
-![PhonePe Dashboard Screenshot](https://github.com/KrishnaBabu-Khethavath/Phonepe-DashBoard-PowerBI/blob/main/Screenshot%202025-10-14%20214629.png)
 
 This screenshot offers a glimpse of the interactive dashboard layout, highlighting transaction metrics, service breakdowns, and failed payment analysis.
 
